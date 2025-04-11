@@ -71,6 +71,6 @@ FizzBuzz
 
 ## 🔗 View Demo
 
-[Click here to open the demo](https://yourusername.github.io/Fizz-Buzz)
+[Click here to open the demo](https://abhishekdevelops.github.io/Fizz-Buzz)
 
 ✅ After opening the demo, right-click → **Inspect** →
